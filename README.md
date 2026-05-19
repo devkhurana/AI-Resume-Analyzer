@@ -133,7 +133,7 @@ Upload and analyze resumes instantly.
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - AI Resume Suggestions
 - Resume Ranking System
